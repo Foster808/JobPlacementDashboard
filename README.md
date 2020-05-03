@@ -207,12 +207,12 @@ I also created a few new properties to ensure this all worked smoothly and prope
 
 	    public class AdminSettings
 	    {
-      public static DateTime Now { get; }  //Add for current season auto calculation
-      [Required(ErrorMessage = "Please enter current season number")]			// for current season validation
-      public int current_season { get; set; }		// the theater season number for the current season
-      public seasonProductions season_productions { get; set; }	// holds 3 production ID's for current season
+      public static DateTime Now { get; }  				//Add for current season auto calculation
+      [Required(ErrorMessage = "Please enter current season number")]	// for current season validation
+      public int current_season { get; set; }				// the theater season number for the current season
+      public seasonProductions season_productions { get; set; }		// holds 3 production ID's for current season
       public recentDefinition recent_definition { get; set; }		// holds recent span and date
-      public int onstage { get; set; }			// production ID of current production
+      public int onstage { get; set; }					// production ID of current production
 
 	
 
