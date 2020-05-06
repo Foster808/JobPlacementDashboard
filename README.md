@@ -1,5 +1,3 @@
-# JobPlacementDashboard
-
 # Live Project
 
 ## Introduction
