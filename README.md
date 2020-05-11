@@ -1,4 +1,4 @@
-# Live Project
+# Live Project -- Internship with Prosper IT Consulting
 
 ## Introduction
 During the Live Project portion of my time with The Tech Academy I got to work with a group of peers on a team developing a full scale MVC Web Application in C#. This was a great opportunity to implement all I'd learned in HTML, CSS, JavaScript and C#. The code base was very large and daunting at first, but I learned how to catch my bearings quickly by focusing on the sections of code I'd been given as Stories to create.
